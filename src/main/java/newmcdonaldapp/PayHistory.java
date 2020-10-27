@@ -18,7 +18,6 @@ public class PayHistory {
         BeanUtils.copyProperties(this, payApprove);
         payApprove.publishAfterCommit();
 
-
     }
 
 
